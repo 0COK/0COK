@@ -4,5 +4,5 @@
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=0COK.wlsgus1208@gmail.com"/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=25&section=footer&text=Hi%20good%20day&fontSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=99CCFF&height=150&section=footer&text=Hi%20good%20day&fontSize=30" />
 
