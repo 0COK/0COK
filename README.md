@@ -7,3 +7,4 @@
 
 ![sky](https://github.com/0COK/0COK/assets/157683507/3d8bf82c-69ce-4a4f-b058-16b3744053d0)
 <img src="https://capsule-render.vercel.app/api?type=egg&color=99CCFF&height=150&section=footer&text=Hi%20good%20day&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
